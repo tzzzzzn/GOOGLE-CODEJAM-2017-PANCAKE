@@ -1,4 +1,4 @@
-m=open("large.in")
+m=open("large.in")#change the file name for small and large
 o=open("correct.in","a")
 print(m.read())
 m.seek(0)
